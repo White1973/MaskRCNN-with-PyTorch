@@ -1,0 +1,1 @@
+python ../detect.py --model maskrcnn_resnet50_fpn --model_path ./checkpoint/maskrcnn_resnet50_fpn.pth --image_path ./data/1586580114.jpg
